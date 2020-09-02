@@ -1,7 +1,10 @@
 # desafio04-aprofundado-mais-em-node
 Esse foi Desafio 04 de Node.js Do BootCamp GoStack Da Rocketseat
 
-Nesse desafio criamos uma Api para gerenciar a movimentaçao de transaçoes, implementando a arquitetura de software SOLID e TypeScript
+Nesse desafio criamos uma Api para gerenciar a movimentaçao de transaçoes, implementando a arquitetura de software SOLID e TypeScript.
+
+
+Para iniciar a aplicaçao vamos:
 
 Primeiro clonamos o repositorio
 
