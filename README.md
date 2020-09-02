@@ -6,7 +6,7 @@ Nesse desafio criamos uma Api para gerenciar a movimentaçao de transaçoes, imp
 
 Para iniciar a aplicaçao vamos:
 
-Primeiro clonamos o repositorio
+Primeiro clonar o repositorio
 
 Depois para inicializar precisamos digitar no seu terminal yarn ou yarn install ou npm install se voce usar o npm
 para instalar todas as dependecias nescessarias para iniciar o projeto
